@@ -1,0 +1,32 @@
+{
+  "name": "@motif-ui/assets",
+  "version": "1.0.0",
+  "description": "Motif UI icon fonts and logos library published on jsDelivr",
+  "license": "MIT",
+  "main": "css/motif-icons.css",
+  "files": [
+    "fonts",
+    "images",
+    "css",
+    "scss"
+  ],
+  "jsdelivr": "css/motif-icons.css",
+  "keywords": [
+    "icon-font",
+    "icons",
+    "logos",
+    "cdn"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motif-ui/assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/motif-ui/assets/issues"
+  },
+  "homepage": "https://motif-ui.github.io/assets/",
+  "author": "Motif UI",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
