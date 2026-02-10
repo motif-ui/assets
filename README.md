@@ -13,17 +13,3 @@ Icon fonts and logo library for Motif UI. Published on jsDelivr CDN.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/motif-ui/assets/css/motif-icons.css">
 
 ```
-
-## License
-
-**MIT License** - All contents (fonts, logos, CSS) are published under the MIT License.
-
-See [LICENSE](./LICENSE) file for details.
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
----
-
-**Motif UI** © 2026 - MIT License

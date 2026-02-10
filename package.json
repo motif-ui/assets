@@ -3,7 +3,6 @@
   "name": "@motif-ui/assets",
   "version": "1.0.0",
   "description": "Motif UI assets",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/motif-ui/assets.git"
