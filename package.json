@@ -3,14 +3,11 @@
   "version": "1.0.0",
   "description": "Motif UI icon fonts and logos library published on jsDelivr",
   "license": "MIT",
-  "main": "css/motif-icons.css",
+  "main": "dist/css/motif-icons.css",
   "files": [
-    "fonts",
-    "images",
-    "css",
-    "scss"
+    "dist"
   ],
-  "jsdelivr": "css/motif-icons.css",
+  "jsdelivr": "dist/css/motif-icons.css",
   "keywords": [
     "icon-font",
     "icons",
